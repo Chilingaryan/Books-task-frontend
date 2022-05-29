@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Run the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `npm start`
 
-## Available Scripts
+**Note: there are explanation notes in the app for the person who will read my code**
 
-In the project directory, you can run:
+**Note: I have a good understanding of redux-saga concepts, how it works and etc. but I have no work experience with redux-saga**
 
-### `yarn start`
+## Stacks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+redux-thunk for state management
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+styled-components for styling
 
-### `yarn test`
+react-dnd for drag and drop
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+react-router-dom for routes
 
-### `yarn build`
+## Configs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Alias paths for development
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Route config file for reusability and readability, the config gives us flexability for customizing Routes, making them Protected and etc.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project structure
 
-### `yarn eject`
+The project structure has been improved for scaleability, every file is on his corrisponding place, aliases make easy to import and files
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Books
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Books data are comming from `_db/books.json` file. it is used with helper function `sleep` to fake a request and response feelings

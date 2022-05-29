@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 2,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 3,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 5,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 6,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 7,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 9,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 10,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 11,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 13,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 14,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 15,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 16,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 17,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 18,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 19,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 20,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 21,
+    "bookName": "City of iron",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/611+oXC2q+L.jpg"
+  },
+  {
+    "id": 22,
+    "bookName": "The world of the Magician",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/71Yd2ACrDcL.jpg"
+  },
+  {
+    "id": 23,
+    "bookName": "Oath of Dragons",
+    "authorName": "The Person",
+    "bookCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxAu3iXbCmedmIGJBXNwOOGV3n2qKg_xxDg&usqp=CAU"
+  },
+  {
+    "id": 24,
+    "bookName": "Titan's birthright",
+    "authorName": "The Person",
+    "bookCover": "https://images-na.ssl-images-amazon.com/images/I/41JAb-hRu7L._SX384_BO1,204,203,200_.jpg"
+  }
+]
